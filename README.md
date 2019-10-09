@@ -26,7 +26,7 @@ A collection of new grad roles for 2020.
 | C3.ai | Software Engineer | Redwood City, CA |  https://boards.greenhouse.io/c3iot/jobs/4416889002 |
 | <strong>Capital One</strong> | Software Engineer | McLean, Virginia; Boston, Massachusetts; New York, New York; San Francisco, California; Chicago, Illinois; Wilmington, Delaware; Richmond, Virginia; Plano, Texas | https://campus.capitalone.com/job/mclean/technology-development-program-associate-2020/1786/12562815 |
 | Cisco | Software Engineer | RTP, NC - San Francisco, CA - Richardson, TX - Austin, TX - Cambridge, MA - Richfield, OH - Knoxville, TN - Lawrenceville, GA | https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Full-Time-United-States/1265288?source=Cisco+Jobs+Career+Site&tags=CDC+SnNG+engineering-university-program |
-| Cockroach Labs | Software Engineer (Backend); Software Engineer (Frontend) | New York, NY; San Francisco, CA | https://www.cockroachlabs.com/careers/job/?gh_jid=1747769, https://www.cockroachlabs.com/careers/job/?gh_jid=1831902 |
+| <strong>Cockroach Labs</strong> | Software Engineer (Backend); Software Engineer (Frontend) | New York, NY; San Francisco, CA | https://www.cockroachlabs.com/careers/job/?gh_jid=1747769, https://www.cockroachlabs.com/careers/job/?gh_jid=1831902 |
 | Confluent | Backend Software Engineer, New Grad | Palo Alto,CA | https://jobs.lever.co/confluent/e825f59b-85db-4bd4-b501-40676b3c170b |
 | Citrix | University Software Engineer | Raleigh, NC, USA; Ft Lauderdale, FL, USA;  Burlington, MA, USA; Santa Clara, CA, USA | https://jobs.citrix.com/job/CITRA0058R16110/University-Software-Engineer-for-2020 |
 | Cruise | Software Engineer - Infra Engineering (2020) | San Francisco, CA | https://boards.greenhouse.io/cruiseuniversity/jobs/1852356 |
