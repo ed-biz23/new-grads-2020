@@ -52,7 +52,7 @@ A collection of new grad roles for 2020.
 | Lyft | 2020 New Grad Software Engineer, Generalist | San Francisco, CA, Seattle, WA | https://boards.greenhouse.io/lyft/jobs/4374104002?gh_jid=4374104002 |
 | Mathworks | Engineering Development Group | US-MA-Natick | https://www.mathworks.com/company/jobs/opportunities/16217-multiple-openings-engineering-development-group-u-s?job_type_id[]=1756& |
 | MemSQL | Software Engineer | Seattle, WA | https://boards.greenhouse.io/memsql/jobs/1666571 |
-| Microsoft | Software Engineer, Data Science | Redmond, Washington, United States / Reston, Virginia, United States / Pittsburgh, Pennsylvania, United States | https://careers.microsoft.com/students/us/en |
+| <strong>Microsoft</strong> | Software Engineer, Data Science | Redmond, Washington, United States / Reston, Virginia, United States / Pittsburgh, Pennsylvania, United States | https://careers.microsoft.com/students/us/en |
 | Mongo | Software Engineer | New York, NY | https://www.mongodb.com/careers/jobs/1821543 |
 | Okta | Software Engineer New Grad | Bellevue, WA; San Jose, CA | https://www.okta.com/company/careers/engineering/software-engineer-new-grad-1864647/ |
 | Oscar | Software Engineer New Grad | LA; NYC | https://www.hioscar.com/careers/1844816,  https://www.hioscar.com/careers/1845316 |
